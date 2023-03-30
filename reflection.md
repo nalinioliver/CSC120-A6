@@ -1,4 +1,7 @@
 Use this file to record your reflection on this assignment.
 
 - What are your initial impressions of how `Inheritance` affects your programming?
+I feel that inheritance makes me more aware of the purposes of the different classes. Before, I would work on each seperately, and not think about how the structure of one class may be valuable to the structure of another. Now, I think about that much more, along with generally thinking about the utility of different classes and their programming purposes. 
+
 - What worked, what didn't, what advice would you give someone taking this course in the future?
+I feel that this assignment was much less overwhelming in terms of getting started. I think this is partially because I feel I have a more solid understanding of using Java, and the syntax that comes with this programming language. I feel that it was fairly easy to extend different classes, and look into Hashtables so I can work through that section of the assignment. I found my biggest difficulty was in the Cafe class, specifically when it comes to re-stocking. I believe I was most confused because of the need to put one method inside of another one, and how that would be formatted/executed.  
